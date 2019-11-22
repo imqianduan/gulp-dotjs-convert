@@ -1,5 +1,3 @@
-# amdefine
-
 A dotjs template can be converted to amd, CJS, es6, CMD standard module of the tool
 
 ## Install
