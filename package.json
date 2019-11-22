@@ -1,0 +1,25 @@
+{
+  "name": "gulp-dotjs-convert",
+  "version": "1.0.1",
+  "description": "Compile dotjs template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Compile",
+    "dotjs",
+    "template",
+    "convert dotjs"
+  ],
+  "author": {
+    "name": "xieguishi",
+    "email": "xieguishi@gmail.com",
+    "url": "https://github.com/xieguishi"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-util": "^3.0.8",
+    "through2": "^2.0.3"
+  }
+}
